@@ -1,12 +1,12 @@
 * {
-  margin:0px;
-  padding:0px;
+  margin:0px !Important;
+  padding:0px !Important;
 }
 
 #octocat {
-  display: block;
-  width:384px;
-  margin: 50px auto;
+  display: block !Important;
+  width:384px !Important;
+  margin: 50px auto !Important;
 }
 
 p {
