@@ -1,20 +1,4 @@
-* {
-  margin:0px !Important;
-  padding:0px !Important;
-}
 
-#octocat {
-  display: block !Important;
-  width:384px !Important;
-  margin: 50px auto !Important;
-}
-
-p {
-  display: block !Important;
-  width: 400px !Important;
-  margin: 50px auto !Important;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace !Important;
-}
 
 // This is just to center the spinner
 
