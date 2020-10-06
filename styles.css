@@ -68,3 +68,11 @@ $duration: 1.4s;
    transform:rotate(450deg);
  }
 }
+
+
+body {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
