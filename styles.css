@@ -33,6 +33,9 @@ $duration: 1.4s;
     colors ($duration*4) ease-in-out infinite;
 }
 
+  <p>Welcome to your first GitHub Pages website!</p><p>Welcome to your first GitHub Pages website!</p>
+
+
 @keyframes colors {
 	0% { stroke: #4285F4; }
 	25% { stroke: #DE3E35; }
