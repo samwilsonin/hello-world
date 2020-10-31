@@ -1,4 +1,4 @@
-# Welcome to GitHub
+Bk# Welcome to GitHub
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 
@@ -54,6 +54,8 @@ Let’s start with this template:
 
 To add your introduction, copy our template and click the edit pencil icon at the top right hand corner of the `index.html` file.
 
-<img width="997" alt="edit-this-file" src="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
+<img width="997" alt="edit-this-file" sr
+
+c="https://user-images.githubusercontent.com/18093541/63131820-0794d880-bf8d-11e9-8b3d-c096355e9389.png">
 
 
